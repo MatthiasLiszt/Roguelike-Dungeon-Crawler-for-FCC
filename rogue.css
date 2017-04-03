@@ -1,0 +1,33 @@
+.screen
+ {width: 576px;
+  height: 288px;
+  margin: 0px auto;
+  border: 9px solid #333;
+  border-radius: 9px;
+  
+ }
+
+.around
+ {width: 252px;
+  height: 252px;
+  margin: 0px auto;
+  border: 9px solid #333;
+  border-radius: 9px;
+  
+ }
+
+.cell
+ {width: 9px;
+  height: 9px;
+  background: lightgrey;
+  display: block;
+  float: left;
+ }
+
+.tile
+ {width: 36px;
+  height: 36px;
+  background: lightgrey;
+  display: block;
+  float: left;
+ }
